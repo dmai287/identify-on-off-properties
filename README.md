@@ -32,7 +32,7 @@ and red_denver_property_listings.csv.
 - plotly 5.6.0
 
 ## Usage
-- Four csv files are needed to run the Compare_MLSes_to_1stAmerican.ipynb are: 
+- Four CSV files (private) are needed to run the Compare_MLSes_to_1stAmerican.ipynb are: 
     - ds_assessor_records.csv
     - red_chicago_property_listings.csv
     - red_dallas_property_listings.csv
